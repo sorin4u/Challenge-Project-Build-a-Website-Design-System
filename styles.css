@@ -1,0 +1,472 @@
+h1, h2, h3{
+    text-align: center;
+}
+
+#style{
+
+width: 70%;
+height: auto;
+margin: 0 auto;
+
+}
+#colors,#fonts,#typography,#mqueries{
+display:inline-block;
+width: 100%;
+height: auto;
+border: 1px black solid;
+margin: 0 auto;
+
+}
+.desc{
+    width: 99%;
+    height: auto;
+    background-color:#dfe1e6;
+    border-radius: 10px;
+    margin:5px 5px 10px 5px;
+    float: left;
+    text-align: center;
+
+}
+.white_text{
+    color:white;
+     text-align:center;
+ }
+
+ .black_text{
+    color:black;
+     text-align:center;
+ }      
+
+
+/* colors  section*/
+
+
+.cont1{
+width: 22.5%;
+height:auto;
+background-color:#161D6F;
+border-radius: 10px;
+margin:20px 10px 10px 12px;
+float: left;
+}
+
+.cont2{
+    width: 22.5%;
+    height: auto;
+    background-color:#0B2F9F;
+    border-radius: 10px;
+    margin:20px 10px 10px 12px;
+    float: left;
+ }
+
+ 
+
+    .cont3{
+       width: 22.5%;
+       height:auto;
+       background-color:#98DED9;
+       border-radius: 10px;
+       margin:20px 10px 10px 12px;
+       float: left;
+}
+     
+ .cont4{
+        width: 22.5%;
+        height: auto;
+        background-color:#C7FFD8;
+        border-radius: 10px;
+        margin:20px 10px 10px 12px;
+        float: left;
+        text-align:center;
+}
+
+.cont5{
+    width: 22.5%;
+    height: auto;
+    background-color:#FABC3F;
+    border-radius: 10px;
+    margin:20px 10px 10px 12px;
+    float: left;
+    }
+    
+    .cont6{
+        width: 22.5%;
+        height: auto;
+        background-color:#E85C0D;
+        border-radius: 10px;
+        margin:20px 10px 10px 12px;
+        float: left;
+     }
+    
+        .cont7{
+           width: 22.5%;
+           height:auto;
+           background-color:#C7253E;
+           border-radius: 10px;
+           margin:20px 10px 10px 12px;
+           float: left;
+    }
+                
+     .cont8{
+            width: 22.5%;
+            height: auto;
+            background-color:#821131;
+            border-radius: 10px;
+            margin:20px 10px 10px 12px;
+            float: left;
+    }
+
+    /* font family  Roboto  */
+
+    
+.cont_font{
+    width: 45%;
+    height:400px;
+    background-color:#ccc3c5;
+    border-radius: 10px;
+    margin:20px 10px 10px 12px;
+    padding:10px;
+    float: left;
+
+}
+
+
+
+
+.cont_font_bottom{
+  width: 99%;
+  height: auto;
+  background-color:#ccc3c5;
+  border-radius: 10px;
+  margin:10px 5px 10px 5px;
+  text-align: center;
+  float:right;
+
+}
+
+ 
+
+.roboto{
+
+  text-decoration: underline;
+  font-family: "Roboto", sans-serif;
+
+
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Roboto  italic */
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Font family    Lato    */
+
+.lato{   
+  text-decoration: underline;
+  font-family: "lato", sans-serif;
+
+}
+  
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+/* Lato  italic */
+  .lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    
+  }
+  
+  .lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    
+  }
+  
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+   
+  }
+  
+
+/* Font family Kanit    */
+
+.Kanit{
+
+  text-decoration: underline;
+  font-family: "Kanit", sans-serif;
+
+
+}
+
+
+  .kanit-extralight {
+    font-family: "Kanit", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .kanit-light {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .kanit-medium {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+
+  
+  .kanit-bold {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .kanit-extrabold {
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+
+  
+  /* Kanit  italic */
+
+  
+  
+  .kanit-extralight-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+   
+  }
+  
+  .kanit-light-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    
+  }
+  
+  .kanit-regular-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    
+  }
+  
+  .kanit-medium-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+     
+  }
+  
+  
+  
+  .kanit-bold-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    
+  }
+  
+  .kanit-extrabold-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    
+  }
+  
+/*text styles section*/
+
+ 
+  .cont_styles{
+
+    width: 45%;
+    height:250px;
+    background-color:#8cb6b8;
+    border-radius: 10px;
+    margin:10px 10px 10px 12px;
+    padding:10px;
+    float: left;
+
+}
+
+
+.main_page{
+
+  font-family: "Roboto", sans-serif;
+   font-weight: 700;
+   font-style: italic;
+   font-size: 26px;
+   letter-spacing: 3px;
+   line-height: 1.6;
+ 
+ 
+ }
+
+ .cont_styles .p_des1{
+  
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  }
+
+
+.subheading{
+
+  Font-weight: 500;
+  Font-size: 18px;
+ font-family: "Lato", sans-serif;
+ font-style: italic;
+ letter-spacing: 2px;
+ line-height: 1.2;
+}
+
+.cont_styles .p_des2{
+  
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+  }
+
+
+.cont_styles_bottom{
+  width: 99%;
+  height: auto;
+  background-color:#8cb6b8;
+  border-radius: 10px;
+  margin:10px 5px 10px 5px;
+  text-align: center;
+  float:right;
+
+}
+.cont_styles_bottom .p_des3{
+font-weight: 400; 
+font-size:14px;
+font-family:"Lato", sans-serif;
+}
+
+
+/*  @media screen */
+.example {
+  width: 99%;
+  height: auto;
+  border-radius: 10px;
+  margin:10px 5px 5px 5px;
+  text-align: center;
+  float:right;
+  color: rgb(14, 1, 1);
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
+}
+  
